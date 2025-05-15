@@ -1,0 +1,57 @@
+# 🚖 Uber Trip Analysis Dashboard
+
+This Power BI project provides a detailed analysis of Uber trip data over a one-month period. It includes interactive visual dashboards to explore bookings, revenue, trip patterns, and vehicle usage across various dimensions.
+
+---
+
+## 📊 Dashboard Pages Overview
+
+### 1. **Overview Analysis**
+This page provides a high-level summary of Uber trips, including:
+- Total Bookings, Total Booking Value, and Average Booking Amount
+- Total and Average Trip Distance
+- Trip Duration Insights
+- Key visualizations:
+  - Bookings by Payment Type
+  - Bookings by Day/Night
+  - Vehicle Type Usage
+  - Most Frequent Pickup and Dropoff Points
+  - Daily Booking Trends
+
+### 2. **Time Analysis**
+Focused on temporal trends in the data, this page shows:
+- Total Booking Value by Pickup Time (hourly)
+- Heatmap of bookings by hour and weekday
+- Total Booking Value by Day of the Week
+- Helps identify peak booking hours and high-revenue days
+
+### 3. **Detailed Analysis**
+This page displays the raw, filterable trip data table including:
+- Trip ID, Date, Vehicle Type, Payment Type, Number of Passengers
+- Total Booking Value and Trip Locations
+- Useful for detailed filtering, data exports, and custom queries
+
+---
+
+## 📁 Files Included
+- `UBER_DASHBOARD.pbix` – Power BI dashboard file
+- `Uber Trip Details.xlsx` – Source dataset
+
+---
+
+## 🧰 Tools Used
+- **Power BI Desktop** – Dashboard creation and visuals
+- **Microsoft Excel** – Data processing and cleanup
+
+---
+
+## 🚀 How to Run
+1. Download or clone the repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Ensure the Excel file is available in the same directory.
+4. Refresh the data source to view updated visuals.
+
+---
+
+## 📄 License
+This project is open-source under the [MIT License](LICENSE).
