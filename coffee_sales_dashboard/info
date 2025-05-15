@@ -1,1 +1,54 @@
+# ☕ Coffee Store Sales Dashboard
+
+This Power BI project provides a visual analysis of a coffee store's sales performance. The dashboard offers insights into revenue trends, product popularity, store performance, and customer purchasing behavior.
+
+---
+
+## 📊 Dashboard Pages Overview
+
+### 1. **Sales Overview**
+This page presents key business metrics at a glance:
+- Total Sales, Orders, and Quantity Sold
+- Sales by Product Category and Item
+- Revenue Trends over Time
+- Top-Selling Products
+- Store-wise Sales Breakdown
+
+### 2. **Time-Based Analysis**
+Focuses on temporal patterns in sales performance:
+- Daily, Weekly, and Monthly Sales Trends
+- Peak Sales Hours and Days
+- Comparison of performance across time periods
+- Identifies seasonal or promotional impacts
+
+### 3. **Store & Product Insights**
+Drills into store and item-level data:
+- Store Comparisons by Revenue and Order Volume
+- Product-Level Sales and Profitability
+- Geographic distribution (if available)
+- Helps optimize stock and store strategy
+
+---
+
+## 📁 Files Included
+- `coffee_store_dashboard.pbix` – Power BI dashboard file
+
+---
+
+## 🧰 Tools Used
+- **Power BI Desktop** – For creating interactive visuals
+- **Excel/CSV** (assumed) – As the data source behind the dashboard
+
+---
+
+## 🚀 How to Run
+1. Download or clone the repository.
+2. Open the `.pbix` file using Power BI Desktop.
+3. Ensure all linked data sources are accessible (or relink if needed).
+4. Click **Refresh** to load the latest data and visuals.
+
+---
+
+## 📄 License
+This project is open-source under the [MIT License](LICENSE).
 
